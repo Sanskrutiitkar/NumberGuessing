@@ -1,0 +1,7 @@
+C:\Users\sanskruti.itkar\source\repos\GuessingNumber\obj\Debug\GuessingNumber.csproj.AssemblyReference.cache
+C:\Users\sanskruti.itkar\source\repos\GuessingNumber\obj\Debug\GuessingNumber.csproj.CoreCompileInputs.cache
+C:\Users\sanskruti.itkar\source\repos\GuessingNumber\bin\Debug\GuessingNumber.exe.config
+C:\Users\sanskruti.itkar\source\repos\GuessingNumber\bin\Debug\GuessingNumber.exe
+C:\Users\sanskruti.itkar\source\repos\GuessingNumber\bin\Debug\GuessingNumber.pdb
+C:\Users\sanskruti.itkar\source\repos\GuessingNumber\obj\Debug\GuessingNumber.exe
+C:\Users\sanskruti.itkar\source\repos\GuessingNumber\obj\Debug\GuessingNumber.pdb
